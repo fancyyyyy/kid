@@ -1,2 +1,2 @@
 # kid
-6hp tri core vco
+6hp trianlge-core vco
