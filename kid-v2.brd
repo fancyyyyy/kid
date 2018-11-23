@@ -169,6 +169,12 @@
 <wire x1="30" y1="110" x2="0" y2="110" width="0" layer="20"/>
 <wire x1="0" y1="110" x2="0" y2="0" width="0" layer="20"/>
 <text x="23.622" y="89.662" size="0.8" layer="26" ratio="11" rot="MR0">FANCYYYYY KID V.2</text>
+<text x="6.858" y="63.754" size="1.27" layer="26" rot="MR270">1V/O</text>
+<text x="7.62" y="90.424" size="1.27" layer="26" rot="MR270">HF TRIM</text>
+<text x="29.718" y="36.068" size="0.8128" layer="26" rot="MR0">SINE TRIM 1</text>
+<text x="21.082" y="36.068" size="0.8128" layer="26" rot="MR0">SINE TRIM 2</text>
+<text x="13.716" y="36.068" size="0.8128" layer="26" rot="MR0">SAW TRIM 1</text>
+<text x="6.604" y="36.068" size="0.8128" layer="26" rot="MR0">SAW TRIM 2</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
