@@ -8,3 +8,5 @@ Trim the sine by ear, or use a signal analyser to trim out the 3rd harmonic with
 The saw trims trim out the bump in the saw, plug it into a scope and trim until you're happy.
 
 Seat the tempco in contact with the sot363-6 transistor pair and stick some thermal paste on top of them.
+
+This is largely an adaptation of the stroh pico vco with some changes to the expo converter.
