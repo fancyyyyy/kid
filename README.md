@@ -1,7 +1,7 @@
 # kid
 6hp trianlge-core vco
 
-No transistor matching, tune it in the same way as you would every other expo converter of this style. There's lots of good info out there on how to tune an analogue oscillator.
+No transistor matching, tune it in the same way as you would every other expo converter of this style. There's lots of info on how to tune an analogue oscillator that's better written than I will ever do.
 
 Trim the sine by ear, or use a signal analyser to trim out the 3rd harmonic with R27. R29 has minimal effect, so don't drive yourself mad with it.
 
